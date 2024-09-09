@@ -46,6 +46,7 @@ This Power BI project analyzes job postings to uncover valuable insights into jo
   - **Skills**: Highlights skill demand and trends over time.
   - **Company**: Provides insights into company size and industry trends.
 ![HomePage](https://github.com/imttrisha/Job-Market-Analysis/blob/main/pb1.JPG?raw=true)
+![Skills Overview](https://github.com/imttrisha/Job-Market-Analysis/blob/main/pb2.JPG?raw=true)
 
 ## Tools Used:
 - **Power BI**: For data visualization, dashboard creation, and interactivity.
